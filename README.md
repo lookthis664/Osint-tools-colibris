@@ -2,3 +2,4 @@ Colibris will be a software that will allow you to have information on an e-mail
 ![c1](c1.png)
 ![c2](c2.png)
 ![c3](c3.png)
+If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
