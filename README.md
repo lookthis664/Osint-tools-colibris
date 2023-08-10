@@ -5,4 +5,7 @@ Colibris will be a software that will allow you to have information on an e-mail
 ![c2](c2.png)
 ![c3](c3.png)
 
+!!Update of the 10/08/2023!!
+I've added the number of days remaining for the software to the interface. I've finished the phone number. Now it will give you the carrier, the country, the timezone and whether it is valid or not. Tomorrow I'll be working on the email information, trying to fix a few problems. 
+
 If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
