@@ -15,4 +15,6 @@ I've changed the interface to make it easier to understand. For the moment there
 I created my own library to make my script faster. Now a "modules" file has been created. I also need to work on the "async def" and my email module. I'll see what I can do later, but I'm taking my time.
 Here is the new display 
 
+![new1](new1.png)
+![new2](new2.png)
 If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
