@@ -11,4 +11,8 @@ I've added the number of days remaining for the software to the interface. I've 
 !!Update of the 11/08/2023!!
 I've changed the interface to make it easier to understand. For the moment there are two commands: "py main.py -u {username}" and -h. I'll tell you about the new interface tomorrow! 
 
+!!Update of the 12/08/2023!!
+I created my own library to make my script faster. Now a "modules" file has been created. I also need to work on the "async def" and my email module. I'll see what I can do later, but I'm taking my time.
+Here is the new display 
+
 If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
