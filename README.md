@@ -6,7 +6,7 @@ Colibris will be a software that will allow you to have information on an e-mail
 ![c3](c3.png)
 
 !!Update of the 10/08/2023!!
-I've added the number of days remaining for the software to the interface. I've finished the phone number. Now it will give you the carrier, the country, the timezone and whether it is valid or not. Tomorrow I'll be working on the email information, trying to fix a few problems. 
+I've added the number of days remaining for the software to the interface, trying to fix a few problems. 
 
 !!Update of the 11/08/2023!!
 I've changed the interface to make it easier to understand. For the moment there are two commands: "py main.py -u {username}" and -h. I'll tell you about the new interface tomorrow! 
