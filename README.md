@@ -1,17 +1,21 @@
 ![menu](help_menu.png)
-Colibris will be a software that will allow you to have information on an e-mail address, an IP address, a telephone number, a username, and other things will come later. For the moment, only 2 of these 4 functions are working. I've been working on it alone for quite a while now. I'm thinking of offering 2 free versions if my work makes any noise. One will be released on 24 August and another in more than 2 months. This will give you an idea of my software! Here are a few screenshots of the interface and the data it will be able to collect
 
-!!Update of the 10/08/2023!!
-I've added the number of days remaining for the software to the interface, trying to fix a few problems. 
+"Colobris" is an osint software that works thanks to scraping! It's currently one of the most promising projects I'm working on. I hope you like it!
 
-!!Update of the 11/08/2023!!
-I've changed the interface to make it easier to understand. For the moment there are two commands: "py main.py -u {username}" and -h. I'll tell you about the new interface tomorrow! 
-
-!!Update of the 12/08/2023!!
-I created my own library to make my script faster. Now a "modules" file has been created. I also need to work on the "async def" and my email module. I'll see what I can do later, but I'm taking my time. Here is the new display 
 ![new2](new2.png)
 
-!!Update of the 13/08/2023!!
-The email functionality works. Now it will tell you, thanks to web scraping, on which site this email address was breached. I'm going to work on the pastebin dump for the email address and the speudo.
 
+How do I use it? First you need to set up a discord webhook with the following command:
+```
+py main.py -w {enter your webhook}
+```
+The help command is as follows:
+```
+py main.py -h
+```
+```
+To search you have 2 commands, here they are:
+py main.py -u {username}
+py main.py -e {email}
+```
 If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
