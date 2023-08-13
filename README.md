@@ -23,4 +23,5 @@ py main.py -u {username}
 py main.py -e {email}
 ```
 ![new2](photo/new2.png)
+(i put only 10 days triall to see if people like my project)
 If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
