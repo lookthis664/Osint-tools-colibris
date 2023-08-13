@@ -1,9 +1,5 @@
 ![menu](photo/help_menu.png)
 
-"Colobris" is an osint software that works thanks to scraping! It's one of the most promising projects I'm currently working on. I hope you enjoy it!
-
-![new2](photo/new2.png)
-
 
 **Features**
 - [x] Get links & category from a username
@@ -27,3 +23,5 @@ py main.py -u {username}
 py main.py -e {email}
 ```
 If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
+
+![new2](photo/new2.png)
