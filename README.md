@@ -22,6 +22,5 @@ To search you have 2 commands, here they are:
 py main.py -u {username}
 py main.py -e {email}
 ```
-If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
-
 ![new2](photo/new2.png)
+If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
