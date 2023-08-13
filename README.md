@@ -3,10 +3,14 @@
 "Colobris" is an osint software that works thanks to scraping! It's one of the most promising projects I'm currently working on. I hope you enjoy it!
 
 ![new2](new2.png)
+
+
 Features
 - [x] Get links & category from a username
 - [X] Know if an email address has been breached
 - [X] Reactive to command
+
+
 How do I use it? First you need to set up a discord webhook with the following command:
 ```
 py main.py -w {enter your webhook}
