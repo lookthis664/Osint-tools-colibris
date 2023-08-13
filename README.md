@@ -10,6 +10,7 @@
 - [X] Know if an email address has been breached
 - [X] Reactive to command
 
+**How do I install it? First of all, you need to launch the config file and then run "Setup.bat "**.
 
 **How do I use it? First you need to set up a discord webhook with the following command:**
 ```
