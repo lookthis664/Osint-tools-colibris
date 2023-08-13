@@ -5,13 +5,13 @@
 ![new2](new2.png)
 
 
-Features
+**Features**
 - [x] Get links & category from a username
 - [X] Know if an email address has been breached
 - [X] Reactive to command
 
 
-How do I use it? First you need to set up a discord webhook with the following command:
+**How do I use it? First you need to set up a discord webhook with the following command:**
 ```
 py main.py -w {enter your webhook}
 ```
