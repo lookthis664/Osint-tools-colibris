@@ -1,8 +1,8 @@
-![menu](help_menu.png)
+![menu](photo/help_menu.png)
 
 "Colobris" is an osint software that works thanks to scraping! It's one of the most promising projects I'm currently working on. I hope you enjoy it!
 
-![new2](new2.png)
+![new2](photo/new2.png)
 
 
 **Features**
