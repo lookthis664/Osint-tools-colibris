@@ -23,7 +23,10 @@ py main.py -u {username}
 py main.py -e {email}
 ```
 ![new2](photo/new2.png)
-(i put only 30 days triall to see if people like my project)
+
+!!UPDATE OF THE 03/09/2023!!
+A new version is ready. This new feature will allow you to find out if an email address has been leaked on pastebin (a pastebin dump).
+
 If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
 
 
