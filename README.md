@@ -26,6 +26,7 @@ py main.py -e {email}
 
 !!UPDATE OF THE 03/09/2023!!
 A new version is ready. This new feature will allow you to find out if an email address has been leaked on pastebin (a pastebin dump).
+Tomorrow you'll be able to enjoy it to the full
 
 If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
 
