@@ -24,12 +24,12 @@ py main.py -e {email}
 ```
 ![new2](photo/new2.png)
 
-!!UPDATE ON 03/09/2023!!
-A new version is ready. This new feature will allow you to find out if an email address has been leaked on pastebin (a pastebin dump).
-Tomorrow you'll be able to enjoy it to the full
 
 !!UPDATE ON 16/09/2023!! 
 Addition of a printout of the results provided by the software in a json file (A backup of the results in bulk) and a new grey interface.
+
+!!UPDATE ON 20/09/2023!! 
+I fixed the following problem: "pastebin_dump_link": "https://pastebin.com/['XXXXXX']" which is written in the json file during pastebin. Now it will write you correctly without the "['...']".
 
 If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
 
