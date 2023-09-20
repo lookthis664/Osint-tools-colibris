@@ -1,4 +1,4 @@
-![menu](photo/help_menu.png)
+![menu](photo/1.png)
 
 
 **Features**
@@ -22,7 +22,7 @@ To search you have 2 commands, here they are:
 py main.py -u {username}
 py main.py -e {email}
 ```
-![new2](photo/new2.png)
+![new2](photo/2.png)
 
 
 !!UPDATE ON 16/09/2023!! 
