@@ -25,7 +25,7 @@ py main.py -e {email}
 ```
 ![new2](photo/2.png)
 
-!!MORE UPDATE!!
+!!MAJOR UPDATE!!
 A new module called 'gs.py' will accompany the results given from a speudo. You will soon be able to benefit from it
 
 If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
