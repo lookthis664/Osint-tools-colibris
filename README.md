@@ -4,6 +4,7 @@
 **Features**
 - [x] Get links & category from a username
 - [X] Know if an email address has been breached
+- [X] Get all pastebin dump with with an email
 - [X] Reactive to command
 
 **How do I install it? First of all, you need to launch the config file and then run "Setup.bat "**.
