@@ -26,8 +26,9 @@ py main.py -e {email}
 ![new2](photo/2.png)
 
 !!MAJOR UPDATE!!
-A new module called 'gs.py' will accompany the results given from a speudo. You will soon be able to benefit from it
+A new module called 'gs.py' will accompany the results given from a speudo. You be able to benefit from it
 
+I'm going to work on this error in the json file =>{"link for lulublade67": []}, etc.
 If you have any questions or special requests, please send a message to the following discord number: 923974093915717632
 
 
