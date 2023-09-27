@@ -59,6 +59,6 @@ py main.py -w {enter your webhook}
 
 > Discord: 372_.
 
-> Colibris osint
+Colibris osint
 
 
