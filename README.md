@@ -12,20 +12,19 @@
 ## **_How do I install it?_**
 ### First of all, you need to launch the config file and then run "Setup.bat ".
 
+
 ## **_How do I use it?_**
 ### First you need to set up a discord webhook with the following command:
 ```
 py main.py -w {enter your webhook}
 ```
-### The help command is as follows:
-```
-py main.py -h
-```
-### To search you have 2 commands, here they are:
-```
-py main.py -u {username}
-py main.py -e {email}
-```
+
+### All command here:
+| Username command  | Email command | Help command | Days command |
+| ------------- | ------------- |  ------------- | ------------- |
+| py main.py -u {username}  | py main.py -e {email} |  py main.py -h | py main.py -d |
+
+
 ![new2](photo/2.png)
 
 # **!!MAJOR UPDATE!!**
