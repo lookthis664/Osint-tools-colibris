@@ -57,7 +57,7 @@ py main.py -w {enter your webhook}
 
 > Github: lookthis664
 
-> Discord: i2s_372
+> Discord: 372_.
 
 > Colibris osint
 
