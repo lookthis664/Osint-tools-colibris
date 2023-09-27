@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/platform-windows%20macos%20linux-lightgrey">
   </a>
   <a href="">
-      <img src="https://img.shields.io/badge/format-Python-l">
+      <img src="https://img.shields.io/badge/format-Python 3.11-l">
   </a>
 </p>
 
