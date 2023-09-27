@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <br>
-  <img src="photo/2.png" width=650>
+  <img src="photo/1.png" width=650>
   <br>
   COLIBRIS OSINT
   <br>
