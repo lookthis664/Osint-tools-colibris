@@ -1,17 +1,35 @@
-# Colibris osint tools
-
+# COLIBRIS
 <p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/last%20update-27%2F09%2F23-red">
-  </a>
+  <img src="https://img.shields.io/badge/last%20update-27%2F09%2F23-red">
 
 <h1 align="center">
   <br>
-  <img src="photo/1.png" width=650>
+  <a href="">
+    <img src="photo/logo.png" width=300 style="border-radius:50%">
+  </a> 
+  </div>
   <br>
   COLIBRIS OSINT
   <br>
 </h1>
+
+<h4 align="center">OSINT tools work with web scraping.</h4>
+
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/version-v4.0-blue">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/platform-windows%20macos%20linux-lightgrey">
+  </a>
+  <a href="">
+      <img src="https://img.shields.io/badge/format-Python-l">
+  </a>
+</p>
+
+<p align="center">
+  <img src="photo/colibris.png" width=700>
+</p>
 
 
 ## **Features**
@@ -29,18 +47,18 @@
 ```
 py main.py -w {enter your webhook}
 ```
-___
 
 ### All command here:
 | **👀 Username command**  | **📩 Email command** | **❓ Help command** | **⏳ Days command** | **📋 Webhook command** |
 | ------------- | ------------- |  ------------- | ------------- | ------------- |
 | py main.py -u {username}  | py main.py -e {email} |  py main.py -h | py main.py -d | py main.py -w {enter your webhook}| 
-___
 
-# **!!MAJOR UPDATE!!**
-## A new module called 'gs.py' will accompany the results given from a speudo. You be able to benefit from it. (I'm going to work on this error in the json file =>{"link for XXXXX": []}, etc.)
+# Author
 
+> Github: lookthis664
 
-### If you have any questions or special requests, please send a message to the following discord number: **923974093915717632**
+> Discord: i2s_372
+
+> Colibris osint
 
 
