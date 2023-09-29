@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/last%20update-29%2F09%2F23-red">
   <br>
-  Probleme fix for the module "gs.py" & add 30 days left
+  Fix the issue for the module "gs.py" & add 30 days left
 
 <h1 align="center">
   <br>
