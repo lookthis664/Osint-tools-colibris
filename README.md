@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="photo/colibris.png" width=700>
+  <img src="photo/new_graphic.png" width=700>
 </p>
 
 
