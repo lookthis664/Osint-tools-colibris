@@ -1,8 +1,8 @@
 # COLIBRIS
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20update-29%2F09%2F23-red">
+  <img src="https://img.shields.io/badge/last%20update-30%2F09%2F23-red">
   <br>
-  Fix the issue for the module "gs.py" & add 30 days left
+  Fix the issue for the module "gs.py", add a webhook check & new graphic interface
 
 <h1 align="center">
   <br>
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/version-v4.1-blue">
+    <img src="https://img.shields.io/badge/version-v4.1.1-blue">
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/platform-windows%20macos%20linux-lightgrey">
