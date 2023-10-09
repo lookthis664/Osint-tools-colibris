@@ -11,7 +11,7 @@ import requests
 def username_search(usernames):
     os.environ['WDM_LOG_LEVEL'] = '0'
     option = webdriver.ChromeOptions()
-    option.headless = False
+    option.headless = True
     option.add_argument('--log-level=3')
     driver = webdriver.Chrome(options=option)
     os.system("cls" or "clear")
