@@ -51,9 +51,9 @@ py main.py -w {enter your webhook}
 ```
 
 ### All command here:
-| **👀 Username command**  | **📩 Email command** | **❓ Help command** | **⏳ Days command** | **📋 Webhook command** |
-| ------------- | ------------- |  ------------- | ------------- | ------------- |
-| py main.py -u {username}  | py main.py -e {email} |  py main.py -h | py main.py -d | py main.py -w {webhook}| 
+| **👀 Username command**  | **📩 Email command** | **❓ Help command** | **📋 Webhook command** |
+| ------------- | ------------- |  ------------- | ------------- | 
+| py main.py -u {username}  | py main.py -e {email} |  py main.py -h | py main.py -w {webhook}| 
 
 # Author
 
