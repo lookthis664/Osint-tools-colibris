@@ -1,8 +1,8 @@
 # COLIBRIS
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20update-09%2F10%2F23-red">
+  <img src="https://img.shields.io/badge/last%20update-10%2F10%2F23-red">
   <br>
-  I have extended the search for the 'username.py' module & I've made the software open source because I'm just about to finish the project! 
+  Add asynchronous commands & fix the problem for the 'gs.py' module when google cookies appear 
 
 <h1 align="center">
   <br>
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/version-v4.1.2-blue">
+    <img src="https://img.shields.io/badge/version-v2.1.4-blue">
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/platform-windows%20macos%20linux-lightgrey">
