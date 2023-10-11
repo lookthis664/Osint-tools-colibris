@@ -1,1 +1,1 @@
-pyinstaller --onefile ./src/pdf_to_csv.py
+& pyinstaller --onefile --distpath ./bin --workpath ./build src/main.py
