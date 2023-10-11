@@ -1,6 +1,6 @@
 # COLIBRIS
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20update-11%2F10%2F23-red">
+  <img src="https://img.shields.io/badge/last%20update-10%2F11%2F23-red">
   <br>
   Merge with "chaeynz", structural modification of the project & addition of a ".gitignore" file
 
