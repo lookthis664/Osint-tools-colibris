@@ -56,14 +56,6 @@ py src/colibris.py -w {enter your webhook}
 python3 src/colibris.py -w {enter your webhook}
 ```
 
-Also you can use pyinstaller to compile it to an executable file
-```
-// Windows:
-./build.ps1
-
-// Linux:
-./build.sh
-```
 
 ### All command here:
 | **👀 Username command**  | **📩 Email command** | **❓ Help command** | **📋 Webhook command** |
