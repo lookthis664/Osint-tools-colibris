@@ -63,7 +63,7 @@ async def gs_search(usernames):
     with open(chemin_du_fichier, 'a', encoding='utf-8') as json_file:
         json.dump(tab, json_file, indent=4)
     
-    with open(r'config\src\webhook.txt', 'r') as file:
+    with open(r'config\webhook.txt', 'r', encoding='utf-8') as file:
         wbh = file.read().strip()
 
 

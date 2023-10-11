@@ -40,7 +40,7 @@ async def username_search(usernames):
                             [Made by 923974093915717632] | Vers: 2.1.4 | github: lookthis664{Fore.RESET}
 ''')
 
-    with open(r"config\src\webhook.txt", "r") as file:
+    with open(r"config\webhook.txt", "r", encoding='utf-8') as file:
         wbh = file.read()
     print(f"""{Fore.RED}Webhook: {Fore.RESET}{wbh[:5]}(...){wbh[-5:]}
 {Fore.YELLOW}[?]=> Searching for the username:{Fore.RESET} {usernames}
@@ -86,7 +86,7 @@ async def username_search(usernames):
         href1.clear()
         row3.clear()
 
-    with open(r'config\src\webhook.txt', 'r') as file:
+    with open(r'config\webhook.txt', 'r', encoding='utf-8') as file:
         wbh = file.read().strip()
 
 

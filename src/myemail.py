@@ -36,7 +36,7 @@ async def email_search(mails):
                             [Made by 923974093915717632] | Vers: 2.1.4 | github: lookthis664{Fore.RESET}
 ''')
 
-    with open(r"config\src\webhook.txt", "r") as file:
+    with open(r"config\webhook.txt", "r", encoding='utf-8') as file:
         wbh = file.read()
     print(f"""{Fore.RED}Webhook: {Fore.RESET}{wbh[:5]}(...){wbh[-5:]}
 {Fore.YELLOW}[?]=> Searching for the email:{Fore.RESET} {mails}
@@ -73,7 +73,7 @@ async def email_search(mails):
     with open(chemin_du_fichier, 'w', encoding='utf-8') as json_file:
         json.dump(result_dict, json_file, indent=4)
 
-    with open(r'config\src\webhook.txt', 'r') as file:
+    with open(r'config\webhook.txt', 'r', encoding='utf-8') as file:
         wbh = file.read().strip()
     
     if e != 0:

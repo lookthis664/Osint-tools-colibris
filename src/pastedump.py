@@ -47,7 +47,7 @@ async def pastebin_dump(mails):
                 json.dump(x, json_file, indent=4)
             href1 = ""
 
-        with open(r'config\src\webhook.txt', 'r') as file:
+        with open(r'config\webhook.txt', 'r', encoding='utf-8') as file:
             wbh = file.read().strip()
 
 

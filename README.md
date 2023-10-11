@@ -40,20 +40,35 @@
 - [X] Get all pastebin dump with with an email
 - [X] Reactive to command
 
-## **_How do I install it?_**
-**First of all, you need to launch the config file and then run "Setup.bat ".**
-
-
-## **_How do I use it?_**
-**First you need to set up a discord webhook with the following command:**
+## **_Requirements_**
 ```
-py main.py -w {enter your webhook}
+pip install -r requirements.txt
+```
+This installs all requirements needed
+
+
+## **_Startup_**
+**First you need to set up a discord webhook with the following command:**
+Use this to start it with Python:
+```
+py src/colibris.py -w {enter your webhook}
+// OR
+python3 src/colibris.py -w {enter your webhook}
+```
+
+Also you can use pyinstaller to compile it to an executable file
+```
+// Windows:
+./build.ps1
+
+// Linux:
+./build.sh
 ```
 
 ### All command here:
 | **👀 Username command**  | **📩 Email command** | **❓ Help command** | **📋 Webhook command** |
 | ------------- | ------------- |  ------------- | ------------- | 
-| py main.py -u {username}  | py main.py -e {email} |  py main.py -h | py main.py -w {webhook}| 
+| py src/colibris.py -u {username}  | py src/colibris.py -e {email} |  py src/colibris.py -h | py src/colibris.py -w {webhook}| 
 
 # Author
 
@@ -62,5 +77,4 @@ py main.py -w {enter your webhook}
 > Discord: 372_.
 
 Colibris osint
-
 

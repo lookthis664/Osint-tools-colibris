@@ -5,7 +5,7 @@ from colorama import Fore
 
 async def change_the_webhook(wbh):
     os.system('cls' or 'clear')
-    with open(r"config\src\webhook.txt", "w") as file:
+    with open(r"config\webhook.txt", "w", encoding='utf-8') as file:
        file.write(wbh)
 
     r = requests.post(wbh)
