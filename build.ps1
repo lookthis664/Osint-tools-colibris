@@ -1,1 +1,1 @@
-& pyinstaller --onefile --distpath ./bin --workpath ./build src/main.py
+& pyinstaller --onefile --distpath ./bin --workpath ./build src/colibris.py
