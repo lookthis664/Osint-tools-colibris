@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/last%20update-11%2F10%2F23-red">
   <br>
-  Add asynchronous commands & fix the problem for the 'gs.py' module when google cookies appear 
+  Merge with "chaeynz", structural modification of the project & addition of a ".gitignore" file
 
 <h1 align="center">
   <br>
