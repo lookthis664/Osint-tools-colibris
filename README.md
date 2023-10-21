@@ -1,8 +1,8 @@
 # COLIBRIS
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20update-10%2F11%2F23-red">
+  <img src="https://img.shields.io/badge/last%21update-10%2F11%2F23-red">
   <br>
-  Merge with "chaeynz", structural modification of the project & addition of a ".gitignore" file
+  Fix some issue in the module 'myemail.py'
 
 <h1 align="center">
   <br>
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/version-v2.1.4-blue">
+    <img src="https://img.shields.io/badge/version-v2.1.5-blue">
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/platform-windows%20macos%20linux-lightgrey">
