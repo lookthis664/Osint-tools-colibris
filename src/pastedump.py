@@ -69,12 +69,12 @@ async def pastebin_dump(mails):
             embed.set_footer(text="Not today")
             embed.set_timestamp()
 
-    os.system("cls" or "clear")
-    r = requests.post(wbh)
-    if r.status_code != 404:
-        webhook.add_embed(embed)
-        response = webhook.execute()
-    else:
-        print(f'{Fore.RED}[?]=> Webhook isn\'t working: {r.text}{Fore.RESET}')
+        os.system("cls" or "clear")
+        r = requests.post(wbh)
+        if r.status_code != 404:
+            webhook.add_embed(embed)
+            response = webhook.execute()
+        else:
+            print(f'{Fore.RED}[?]=> Webhook isn\'t working: {r.text}{Fore.RESET}')
 
     print(f"""{Fore.YELLOW}[?]=> Pastebin found:{Fore.RED} {e}{Fore.RESET}""")
