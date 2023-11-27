@@ -37,7 +37,7 @@
 ## **Features**
 - [x] Get links & category from a username
 - [X] Know if an email address has been breached
-- [X] Get all pastebin dump with with an email
+- [X] Get all pastebin dump with an email
 - [X] Reactive to command
 
 ## **_Requirements_**
