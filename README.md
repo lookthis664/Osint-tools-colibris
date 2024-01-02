@@ -1,6 +1,6 @@
 # COLIBRIS
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20update-10%2F11%2F23-red">
+  <img src="https://img.shields.io/badge/last%20update-02%2F01%2F24-red">
   <br>
   Prevent error if no webhook is given
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/version-v2.1.5-blue">
+    <img src="https://img.shields.io/badge/version-v2.1.6-blue">
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/platform-windows%20macos%20linux-lightgrey">
