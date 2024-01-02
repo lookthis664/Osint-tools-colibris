@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/version-v2.1.6-blue">
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/platform-windows%20macos%20linux-lightgrey">
+    <img src="https://img.shields.io/badge/platform-windows%2Fmacos%2Flinux-lightgrey">
   </a>
   <a href="">
       <img src="https://img.shields.io/badge/format-Python 3.11-l">
