@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ```
 This installs all requirements needed
 
-⚠️ You need a good wifi
+⚠️ You need to have a good Wi-Fi connection in order to fully utilize the power of the software.
 
 
 ## **_Startup_**
