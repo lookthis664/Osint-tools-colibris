@@ -60,9 +60,9 @@ python3 src/colibris.py -w {enter your webhook}
 
 
 ### All command here:
-| **👀 Username command**  | **❓ Help command** | **📋 Webhook command** |
-| ------------- | ------------- | ------------- | 
-| py src/colibris.py -u {username} |  py src/colibris.py -h | py src/colibris.py -w {webhook}| 
+| **👀 Username command** | **❓ GitHub command** | | **❓ Help command** | **📋 Webhook command** |
+| ------------- | ------------- | ------------- |------------- | 
+| py src/colibris.py -u {username} | py src/colibris.py -g {username} | py src/colibris.py -h | py src/colibris.py -w {webhook}| 
 
 # Author
 
