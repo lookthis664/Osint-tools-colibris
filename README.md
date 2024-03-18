@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="photo/2.1.4.png" width=700>
+  <img src="photo/1.png" width=700>
 </p>
 
 
