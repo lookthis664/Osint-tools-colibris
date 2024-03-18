@@ -68,7 +68,7 @@ python3 src/colibris.py -w {enter your webhook}
 
 > Github: lookthis664
 
-> Discord: trop_booste_sur_mw3
+> Discord: plesir_soumision_caca
 
 Colibris osint
 
