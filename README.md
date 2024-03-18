@@ -1,6 +1,6 @@
 # COLIBRIS
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20update-02%2F01%2F24-red">
+  <img src="https://img.shields.io/badge/last%20update-18%2F03%2F24-red">
   <br>
   Prevent error if no webhook is given
 
