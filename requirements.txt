@@ -12,3 +12,4 @@ json
 random
 argparse
 asyncio
+tqdm
