@@ -17,5 +17,5 @@ async def menu_help():
                                                         ,'`colibris
 
 
-                            [Made by 923974093915717632] | Vers: 1.0 | github: lookthis664{Fore.RESET}
+                            [Made by 923974093915717632] | Vers: 1.1 | github: lookthis664{Fore.RESET}
 ''')
