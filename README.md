@@ -1,6 +1,6 @@
 # COLIBRIS
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20update-18%2F03%2F24-red">
+  <img src="https://img.shields.io/badge/last%20update-24%2F03%2F24-red">
   <br>
   I have decided to revert back to version 1.0 of the software, keeping only the '-u/--username' functionality to focus solely on this feature. I have added a loading bar that is more intuitive to understand, fixed major issues at the launch of the software, and utilized the GitHub API to collect a person's email address from their GitHub profile. And you can use the new GitHub feature to test, I am waiting for your feedback.
 
