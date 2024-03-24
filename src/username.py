@@ -38,7 +38,7 @@ async def username_search(usernames):
                                                         ,'`colibris
 
 
-                            [Made by 923974093915717632] | Vers: 1.0 | github: lookthis664{Fore.RESET}
+                            [Made by 923974093915717632] | Vers: 1.1 | github: lookthis664{Fore.RESET}
 ''')
 
     with open(r"config\webhook.txt", "r", encoding='utf-8') as file:
