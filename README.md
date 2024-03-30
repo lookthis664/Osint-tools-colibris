@@ -1,8 +1,8 @@
 # COLIBRIS
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20update-26%2F03%2F24-red">
+  <img src="https://img.shields.io/badge/last%20update-30%2F03%2F24-red">
   <br>
-In this latest update I've added 2 modules. The first one "mtda.py" allows to collect the metadata of the links and to create a json file from the results. The second module "dele.py" deletes temporary json files to make results easier to understand.
+Use "WebDriverWait(driver, 30).until(EC.element_to_be_clickable" for faster results
 
 <h1 align="center">
   <br>
@@ -19,7 +19,7 @@ In this latest update I've added 2 modules. The first one "mtda.py" allows to co
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/version-v1.3-blue">
+    <img src="https://img.shields.io/badge/version-v1.4-blue">
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/platform-windows%2Fmacos%2Flinux-lightgrey">
