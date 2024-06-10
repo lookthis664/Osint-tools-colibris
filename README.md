@@ -67,7 +67,7 @@ python3 src/colibris.py -w {enter your webhook}
 
 > Github: lookthis664
 
-> Discord: tenjiro372
+> Discord: s2_77zz
 
 Colibris osint
 
