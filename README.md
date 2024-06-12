@@ -1,8 +1,8 @@
 # COLIBRIS
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20update-30%2F03%2F24-red">
+  <img src="https://img.shields.io/badge/last%20update-12%2F06%2F24-red">
   <br>
-Use "WebDriverWait(driver, 30).until(EC.element_to_be_clickable" for faster results
+Correction added: I changed the website because the other one had an internet problem.
 
 <h1 align="center">
   <br>
@@ -19,7 +19,7 @@ Use "WebDriverWait(driver, 30).until(EC.element_to_be_clickable" for faster resu
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/version-v1.4-blue">
+    <img src="https://img.shields.io/badge/version-v1.6-blue">
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/platform-windows%2Fmacos%2Flinux-lightgrey">
