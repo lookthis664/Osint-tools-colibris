@@ -1,8 +1,8 @@
 # COLIBRIS
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20update-12%2F06%2F24-red">
+  <img src="https://img.shields.io/badge/last%20update-10%2F09%2F24-red">
   <br>
-Correction added: I changed the website because the other one had an internet problem.
+Added an enhancement to the dele.py module to remove links with Metadata: ''{}” for better accuracy of valid links
 
 <h1 align="center">
   <br>
@@ -19,7 +19,7 @@ Correction added: I changed the website because the other one had an internet pr
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/version-v1.6-blue">
+    <img src="https://img.shields.io/badge/version-v1.8-blue">
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/platform-windows%2Fmacos%2Flinux-lightgrey">
