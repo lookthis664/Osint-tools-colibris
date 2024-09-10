@@ -48,16 +48,6 @@ This installs all requirements needed
 ⚠️ You need to have a good Wi-Fi connection in order to fully utilize the power of the software.
 
 
-## **_Startup_**
-**First you need to set up a discord webhook with the following command:**
-Use this to start it with Python:
-```
-py src/colibris.py -w {enter your webhook}
-// OR
-python3 src/colibris.py -w {enter your webhook}
-```
-
-
 ### All command here:
 | **👀 Username command** | **❓ Help command**|
 | ------------- | -------------| 
@@ -70,4 +60,3 @@ python3 src/colibris.py -w {enter your webhook}
 > Discord: s2_77zz
 
 Colibris osint
-
