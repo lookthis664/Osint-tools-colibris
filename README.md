@@ -35,8 +35,8 @@ Added an enhancement to the "dele.py" module to remove links with Metadata: "{}"
 
 
 ## **Features**
-- [x] Get links & category from a username
-- [X] Get email & name from a GitHub account
+- [x] Get links from a username
+- [X] Automated metadata harvesting from a generated link 
 - [X] Reactive to command
 
 ## **_Requirements_**
