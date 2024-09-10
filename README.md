@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/last%20update-10%2F09%2F24-red">
   <br>
-Added an enhancement to the dele.py module to remove links with Metadata: ''{}” for better accuracy of valid links
+Added an enhancement to the "dele.py" module to remove links with Metadata: "{}" for better accuracy of valid links
 
 <h1 align="center">
   <br>
