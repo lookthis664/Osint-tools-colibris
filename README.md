@@ -57,6 +57,6 @@ This installs all requirements needed
 
 > Github: lookthis664
 
-> Discord: s2_77zz
+> Discord: ycne_77
 
 Colibris osint
