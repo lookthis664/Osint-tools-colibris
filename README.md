@@ -1,6 +1,6 @@
 # COLIBRIS
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20update-10%2F09%2F24-red">
+  <img src="https://img.shields.io/badge/last%20update-30%2F11%2F24-red">
   <br>
 I corrected the problem that was causing the program to stop working.
 
@@ -19,7 +19,7 @@ I corrected the problem that was causing the program to stop working.
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/version-v1.8-blue">
+    <img src="https://img.shields.io/badge/version-v1.9-blue">
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/platform-windows%2Fmacos%2Flinux-lightgrey">
