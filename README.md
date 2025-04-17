@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/last%20update-30%2F11%2F24-red">
   <br>
-I corrected the problem that was causing the program to stop working.
+I dont know why but my program didnt work. The origin of the problem is chrome automatisation that create a bug between the site and the program.
+To be honest i don't think this can be fix. Sadly i will not fix the error, so at this time the code not work att all.
 
 <h1 align="center">
   <br>
