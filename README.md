@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/last%20update-30%2F11%2F24-red">
   <br>
 I dont know why but my program didnt work. The origin of the problem is chrome automatisation that create a bug between the site and the program.
-To be honest i don't think this can be fix. Sadly i will not fix the error, so at this time the code not work att all.
+To be honest i don't think this can be fix. Sadly i will not fix the error, so at this time the code not while work at all.
 
 <h1 align="center">
   <br>
