@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/last%20update-25%2F11%2F25-red">
   <br>
-New version of my script this should be better and accurate.
+New version of my script this one should be better and accurate.
 
 <h1 align="center">
   <br>
