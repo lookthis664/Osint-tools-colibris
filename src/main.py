@@ -151,7 +151,7 @@ Default = limited to 100 websearch (fastest)""")
                     json.dump(users, file, indent=4)
 
                 print(f"\n{Fore.GREEN}[SUCCESS]{Style.RESET_ALL} Found {e} links for '{usernames}'.")
-                print(f"{Fore.GREEN}[SUCCESS]{Style.RESET_ALL} Links saved to temporary JSON file: {nom_fichier_json}.")
+                print(f"{Fore.GREEN}[SUCCESS]{Style.RESET_ALL} Links save -> JSON file: {usernames}_osint_safe.json.")
 
 
             print(f"\n{Fore.YELLOW}--- Social Media Links Found ({e}) ---{Style.RESET_ALL}")
