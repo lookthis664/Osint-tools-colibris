@@ -36,12 +36,12 @@ New version of my script this should be better and accurate.
 
 ## **Features**
 - [x] Get links from a username
-- [X] Automated metadata harvesting from a generated link (WIP)
-- [X] Reactive to command
+- [X] Automated metadata harvesting from a generated link
+- [X] Simple to use (good interface)
 
 ## **_Requirements_**
 ```
-pip install -r requirements.txt
+Lunch the "setup.bat" to install these modules: colorama, playwright, BeautifulSoup, requests
 ```
 This installs all requirements needed
 
