@@ -25,8 +25,8 @@ async def username_search_playwright(usernames=None):
            {Fore.LIGHTRED_EX}Made By 923974093915717632{Fore.LIGHTMAGENTA_EX} 
     +-------------------+------------------+""")
         usernames = input(f"""{Fore.YELLOW}\n-> Enter username to search: {Style.RESET_ALL}""")
-        print(f"""{Fore.LIGHTYELLOW_EX}\n"L" = 704 webshearch
-Default = limited to 270 websearch""")
+        print(f"""{Fore.LIGHTYELLOW_EX}\n"L" = 704 webshearch (good for deep searching)
+Default = limited to 100 websearch (fastest)""")
 
         limite_mode = input(f"""{Fore.YELLOW}[?]=> Enter L or return empty:{Style.RESET_ALL} """)
         os.system('cls')
