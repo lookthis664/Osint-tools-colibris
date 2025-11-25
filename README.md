@@ -41,7 +41,7 @@ New version of my script this should be better and accurate.
 
 ## **_Requirements_**
 ```
-Lunch the "setup.bat" to install these modules: colorama, playwright, BeautifulSoup, requests
+Lunch "setup.bat" to install these modules: colorama, playwright, BeautifulSoup, requests
 ```
 This installs all requirements needed
 
