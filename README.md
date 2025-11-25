@@ -2,8 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/last%20update-30%2F11%2F24-red">
   <br>
-I dont know why but my program didnt work. The origin of the problem is chrome automatisation that create a bug between the site and the program.
-To be honest i don't think this can be fix. Sadly i will not fix the error, so at this time the code not while work at all.
+New version of my script this should be better and accurate.
 
 <h1 align="center">
   <br>
@@ -37,7 +36,7 @@ To be honest i don't think this can be fix. Sadly i will not fix the error, so a
 
 ## **Features**
 - [x] Get links from a username
-- [X] Automated metadata harvesting from a generated link 
+- [X] Automated metadata harvesting from a generated link (WIP)
 - [X] Reactive to command
 
 ## **_Requirements_**
@@ -52,7 +51,7 @@ This installs all requirements needed
 ### All command here:
 | **👀 Username command** | **❓ Help command**|
 | ------------- | -------------| 
-| py src/colibris.py -u {username}| py src/colibris.py -h | 
+| py src/main.py| 
 
 # Author
 
