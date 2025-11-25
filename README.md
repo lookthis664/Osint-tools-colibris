@@ -52,6 +52,7 @@ This installs all requirements needed
 | **👀 Username command** |
 | ------------- | -------------| 
 | py src/main.py| 
+
 *yes, more compact than the oldest version x)*
 
 # Author
