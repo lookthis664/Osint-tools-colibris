@@ -41,7 +41,8 @@ New version of my script this should be better and accurate.
 
 ## **_Requirements_**
 ```
-Lunch "setup.bat" to install these modules: colorama, playwright, BeautifulSoup, requests
+1- Download python3.11
+2- Lunch "setup.bat" to install these modules: colorama, playwright, BeautifulSoup, requests
 ```
 This installs all requirements needed
 
