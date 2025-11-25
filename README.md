@@ -48,7 +48,7 @@ This installs all requirements needed
 
 ⚠️ You need to have a good Wi-Fi connection in order to fully utilize the power of the software.
 
-⚠️ Can be lunch on Raspberry Pi Zero 2 W *(you will to do some modification in the script for lunche him)*
+⚠️ Can be lunch on Raspberry Pi Zero 2 W *(you will to do some modification in the script for lunch him)*
 
 
 ### All command here:
