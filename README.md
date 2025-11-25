@@ -41,7 +41,7 @@ New version of my script this should be better and accurate.
 
 ## **_Requirements_**
 ```
-1- Download python3.11
+1- Download python3.11 (https://www.python.org/downloads/release/python-3110)
 2- Lunch "setup.bat" to install these modules: colorama, playwright, BeautifulSoup, requests
 ```
 This installs all requirements needed
