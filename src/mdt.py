@@ -13,7 +13,7 @@ def usernames_folder(usernames):
                 response = requests.get(url)
                 soup = BeautifulSoup(response.text, features="html.parser")
 
-                meta_desc = soup.find('meta', attrs={'name': 'description'})  # UNE seule
+                meta_desc = soup.find('meta', attrs={'name': 'description'})
                 if meta_desc and meta_desc.get('content'):
                     desc = meta_desc.get('content')
                 else:
@@ -21,8 +21,7 @@ def usernames_folder(usernames):
 
                 tab.append({'Lien': url,
                             'Metadata': desc})
-        print(tab)
+                print(f'- Link: {url}\n -> Metadata: {desc}\n')
         with open(f"{usernames}_osint_safe.json", "w+") as f:
             json.dump(tab, f, indent=4)
     os.remove(f"{usernames}_osint_temp.json")
-
