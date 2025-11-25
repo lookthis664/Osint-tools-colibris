@@ -21,7 +21,7 @@ def usernames_folder(usernames):
 
                 tab.append({'Lien': url,
                             'Metadata': desc})
-                print(f'- Link: {url}\n -> Metadata: {desc}\n')
+                print(f'- Link: {url}\n   -> Metadata: {desc}\n')
         with open(f"{usernames}_osint_safe.json", "w+") as f:
             json.dump(tab, f, indent=4)
     os.remove(f"{usernames}_osint_temp.json")
